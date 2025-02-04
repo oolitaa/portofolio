@@ -25,8 +25,6 @@ This GitHub profile showcases various projects that demonstrate my technical exp
 - SQL for Data Analysis: Querying and processing large datasets efficiently
 - Business Recommendations: Providing actionable insights from data
 
----
-
 ## 📂 Featured Projects  
 ### **1️⃣ Data Engineering Projects**  
 📌 **ETL Pipeline for Sales Data** ([Repo Link](#))  
@@ -45,8 +43,6 @@ This GitHub profile showcases various projects that demonstrate my technical exp
 📌 **Power BI Dashboard for Sales Performance** ([Repo Link](#))  
 ✅ Developed a **dynamic dashboard** to track revenue, customer trends, and sales performance  
 ✅ Used **DAX & Power Query** for data transformation  
-
----
 
 ## 📫 Contact Me  
 🔗 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
