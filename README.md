@@ -44,7 +44,5 @@ This GitHub profile showcases various projects that demonstrate my technical exp
 ✅ Developed a **dynamic dashboard** to track revenue, customer trends, and sales performance  
 ✅ Used **DAX & Power Query** for data transformation  
 
-## 📫 Contact Me  
-🔗 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-🔗 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-📧 **Email:** your.email@example.com
+## 📫 Contact Me   
+🔗 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/oolitaa)  
