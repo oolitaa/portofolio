@@ -45,4 +45,4 @@ This GitHub profile showcases various projects that demonstrate my technical exp
 ✅ Used **DAX & Power Query** for data transformation  
 
 ## 📫 Contact Me   
-🔗 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/oolitaa)  
+🔗 **LinkedIn:** link(https://linkedin.com/in/oolitaa)  
